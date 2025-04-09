@@ -125,7 +125,7 @@ pause
 
 ## 📜 Lisans
 
-MIT Lisansı – Özgürce kullanılabilir, değiştirilebilir.
+ Özgürce kullanılabilir, değiştirilebilir.
 
 > ⭐ Projeyi faydalı bulduysanız GitHub sayfamıza yıldız bırakmayı unutmayın!
 
