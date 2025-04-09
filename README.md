@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/user-attachments/assets/ce40b013-e381-4c70-8995-8597d71a80d9)
 
-![Image](https://github.com/user-attachments/assets/15b036eb-2b29-47e4-932c-55716ad2817c)
 
 ## ✨ Genel Tanıtım
 
@@ -94,6 +93,9 @@ src/
 > `RouteService` gibi sınıflar, `IMesafeHesaplayici` gibi soyutlamalar üzerinden çalışır.
 
 ---
+
+
+![Image](https://github.com/user-attachments/assets/15b036eb-2b29-47e4-932c-55716ad2817c)
 
 ## 🚀 Projeyi Çalıştırma
 
