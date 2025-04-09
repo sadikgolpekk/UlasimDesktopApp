@@ -10,6 +10,8 @@ Uygulama, **SOLID prensipleri** ışığında tasarlanmış olup geliştirilmeye
 
 ---
 
+![Image](https://github.com/user-attachments/assets/bdcfc00d-8343-4010-9032-6dc21131c166)
+
 ## 📚 Öne Çıkan Özellikler
 
 - Harita paneli üzerinden rota noktaları belirleme (graf yapısı mantığı)
