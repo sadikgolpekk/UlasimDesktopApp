@@ -1,6 +1,6 @@
 # UlasimApp - Java Tabanlı Ulaşım Rota Planlama Uygulaması
 
-![Image](https://github.com/user-attachments/assets/973b9b08-38db-4f88-8ead-8302b0a74fdb)
+![Image](https://github.com/user-attachments/assets/ce40b013-e381-4c70-8995-8597d71a80d9)
 
 ![Image](https://github.com/user-attachments/assets/15b036eb-2b29-47e4-932c-55716ad2817c)
 
