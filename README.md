@@ -124,7 +124,7 @@ pause
 - Diyaloglar (`About`, `Payment`, `Preferences`, vs.) arayüz etkileşimini artırmak için modüler yapıda düşünülmüştür.
 
   ![Image](https://github.com/user-attachments/assets/6ac9595f-71ab-4cd4-80a7-dbe24b546e6d)
-
+  ![Image](https://github.com/user-attachments/assets/6551f6de-d8c4-4fc8-a710-c99b52e824fe)
 ---
 
 ## 📜 Lisans
