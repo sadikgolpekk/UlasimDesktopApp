@@ -1,5 +1,8 @@
 # UlasimApp - Java Tabanlı Ulaşım Rota Planlama Uygulaması
 
+![Image](https://github.com/user-attachments/assets/973b9b08-38db-4f88-8ead-8302b0a74fdb)
+
+
 ## ✨ Genel Tanıtım
 
 **UlasimApp**, Java Swing ile geliştirilmiş, harita mantığı arkaplanda olan bir rota planlama uygulamasıdır. Kullanıcılar, başlangıç ve bitiş noktalarını arayüzden seçerek, en uygun rotayı **süre, ücret ve mesafe** açısından karşılaştırmalı olarak görebilir.
