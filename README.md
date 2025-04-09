@@ -108,8 +108,8 @@ pause
 
 ## 👨‍💻 Geliştirici Ekibi
 
-- Sadık Gölpek – [github.com/sadikgolpek](https://github.com/sadikgolpek)
-- Ali Kılınç – [github.com/aliklnc](https://github.com/aliklnc)
+- Sadık Gölpek – [github.com/sadikgolpekk](https://github.com/sadikgolpekk)
+- Ali Kılınç – [github.com/aliiklnc](https://github.com/aliiklnc)
 
 > Bu proje, Java ile nesne yönelimli programlamaya dair güçlü örnekler sunar. SOLID prensiplerine göre inşa edilerek sürdürülebilir ve genişletilebilir bir yapıya kavuşmuştur.
 
