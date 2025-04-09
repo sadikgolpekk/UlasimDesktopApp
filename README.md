@@ -4,7 +4,7 @@
 
 **UlasimApp**, Java Swing ile geliştirilmiş, harita mantığı arkaplanda olan bir rota planlama uygulamasıdır. Kullanıcılar, başlangıç ve bitiş noktalarını arayüzden seçerek, en uygun rotayı **süre, ücret ve mesafe** açısından karşılaştırmalı olarak görebilir.
 
-> Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği 2. sınıf 2. dönem Prolab I dersi** kapsamında gerçekleştirilmiştir. Öğrencilere yazılım mühendisliği ilkelerini uygulama imkânı sağlayan bu ilk proje, aynı zamanda takım çalışması, tasarım prensipleri ve yazılım mimarisi açısından da önemli deneyimler sunmuştur.
+> Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği 2. sınıf Prolab dersi** kapsamında gerçekleştirilmiştir. Öğrencilere yazılım mühendisliği ilkelerini uygulama imkânı sağlayan bu proje, aynı zamanda takım çalışması, tasarım prensipleri ve yazılım mimarisi açısından da önemli deneyimler sunmuştur.
 
 Uygulama, **SOLID prensipleri** ışığında tasarlanmış olup geliştirilmeye ve genişletilmeye uygun mimarisi sayesinde gelecekte daha büyük sistemlere entegre edilebilir.
 
